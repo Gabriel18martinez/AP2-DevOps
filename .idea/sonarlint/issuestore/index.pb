@@ -6,3 +6,9 @@ S
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+Z
+*src/main/java/org/example/calculadora.java,a\4\a48d4496152f529a81fb19d5dd8845e7a1792129
+R
+"src/test/java/CalculadoraTest.java,a\e\ae520ead44943020ddbb544c3edf1dfde1f1ae63
+Z
+*src/main/java/org/example/Calculadora.java,e\5\e5b02a72d345f8da494b878120d3bbbd78927664
