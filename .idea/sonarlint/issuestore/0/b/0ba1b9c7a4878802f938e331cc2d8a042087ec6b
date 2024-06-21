@@ -1,6 +1,7 @@
 
 f
-java:S3457"%String contains no format specifiers.(Šªž„ýÿÿÿÿJ$da67eb97-23f9-43dd-832c-5db7e4d5b3c3
-k	java:S106"+Replace this use of System.out by a logger.(Šªž„ýÿÿÿÿJ$c38c8232-7e17-480f-b101-aedca9c294e6
+java:S3457
+"%String contains no format specifiers.(Šªž„ýÿÿÿÿJ$b36be55e-f7c1-441e-93f1-183fb63e2ed0
 k	java:S106
-"+Replace this use of System.out by a logger.(Ðö¶žüÿÿÿÿJ$c3f11dfb-b9f4-4d38-b24b-b77d2dd29b8c
+"+Replace this use of System.out by a logger.(Šªž„ýÿÿÿÿJ$d7fa12d8-80b1-4224-8319-71aad2c8d126
+k	java:S106"+Replace this use of System.out by a logger.(Ðö¶žüÿÿÿÿJ$1fbe76df-c818-40dc-af93-4a9a3879b230

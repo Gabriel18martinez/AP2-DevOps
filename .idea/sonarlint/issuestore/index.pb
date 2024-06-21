@@ -14,3 +14,5 @@ Z
 *src/main/java/org/example/Calculadora.java,e\5\e5b02a72d345f8da494b878120d3bbbd78927664
 ;
 Jenkinsfile,0\c\0c2c5c506cef0ed2d3ad2b7e45e97980b66f5520
+>
+AP2-DevOps.iml,c\5\c570fb192d158582a4386845f129d5e583bfd690
